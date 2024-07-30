@@ -5,3 +5,5 @@ Yup this just contains a list of things I wanna create when I get enough funding
 2. Robotic Arm
 3. Robotic Head
 4. Autonomous Android
+5. Electric Generator
+6. Rocket
